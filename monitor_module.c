@@ -5,6 +5,7 @@
 #include <linux/jiffies.h>
 #include <linux/sched/loadavg.h>
 
+MODULE_LICENSE("GPL);
 MODULE_AUTHOR("281443-279460");
 MODULE_DESCRIPTION("moduł do zasobów");
 MODULE_VERSION("1.0");
